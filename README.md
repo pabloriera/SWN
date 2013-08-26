@@ -1,4 +1,4 @@
 SWN
 ===
 
-SWD
+Stand allone
